@@ -7,16 +7,14 @@ website:
   navbar:
     background: transparent
     left:
-      - text: Home
+      - text: Kezdőlap
         href: index.qmd
-      - text: Location
+      - text: Helyszín
         href: location.qmd
-      - text: Info
+      - text: Infó
         href: info.qmd
-      - text: RSVP HU
+      - text: RSVP
         href: rsvp_hu.qmd
-      - text: RSVP IT
-        href: rsvp_it.qmd
 
 from: markdown+emoji
 
