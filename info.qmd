@@ -9,3 +9,7 @@ editor: visual
 Lehetőleg kék. De ha nincs olyan kék ruhád amit szívesen felvennél, bármi jó ami nem fehér vagy piros :).
 
 ![](images/blue_ring.jpg){width="300" fig-align="center"}
+
+Munkavégzés folyamatban...
+
+![](images/lavori.svg){width="300" fig-align="center"}
