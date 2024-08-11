@@ -10,6 +10,6 @@ Lehetőleg kék. De ha nincs olyan kék ruhád amit szívesen felvennél, bármi
 
 ![](images/blue_ring.jpg){width="300" fig-align="center"}
 
-Munkavégzés folyamatban...
+## Program
 
-![](images/lavori.svg){width="300" fig-align="center"}
+16:30 - Kezdés
